@@ -1,4 +1,6 @@
 # Pokedex-Felipe
+<img src="https://pokedex-felipe.vercel.app/images/pokedex.png" alt="image" width="200" height="200">
+
 **Introdução:**
 Projeto Pokédex foi desenvolvido para usuários e fãs pesquisarem Pokémons através do seu nome e número de identificação, conseguindo informações e caracterísiticas como *Altura*, *Peso*, *Nome* e *Imagem interativa*.
 
